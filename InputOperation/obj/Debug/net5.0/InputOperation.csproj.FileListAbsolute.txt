@@ -1,0 +1,15 @@
+/Users/mistral/Projects/InputOperation/InputOperation/bin/Debug/net5.0/InputOperation.deps.json
+/Users/mistral/Projects/InputOperation/InputOperation/bin/Debug/net5.0/InputOperation.runtimeconfig.json
+/Users/mistral/Projects/InputOperation/InputOperation/bin/Debug/net5.0/InputOperation.runtimeconfig.dev.json
+/Users/mistral/Projects/InputOperation/InputOperation/bin/Debug/net5.0/InputOperation.dll
+/Users/mistral/Projects/InputOperation/InputOperation/bin/Debug/net5.0/ref/InputOperation.dll
+/Users/mistral/Projects/InputOperation/InputOperation/bin/Debug/net5.0/InputOperation.pdb
+/Users/mistral/Projects/InputOperation/InputOperation/obj/Debug/net5.0/InputOperation.csproj.AssemblyReference.cache
+/Users/mistral/Projects/InputOperation/InputOperation/obj/Debug/net5.0/InputOperation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mistral/Projects/InputOperation/InputOperation/obj/Debug/net5.0/InputOperation.AssemblyInfoInputs.cache
+/Users/mistral/Projects/InputOperation/InputOperation/obj/Debug/net5.0/InputOperation.AssemblyInfo.cs
+/Users/mistral/Projects/InputOperation/InputOperation/obj/Debug/net5.0/InputOperation.csproj.CoreCompileInputs.cache
+/Users/mistral/Projects/InputOperation/InputOperation/obj/Debug/net5.0/InputOperation.dll
+/Users/mistral/Projects/InputOperation/InputOperation/obj/Debug/net5.0/ref/InputOperation.dll
+/Users/mistral/Projects/InputOperation/InputOperation/obj/Debug/net5.0/InputOperation.pdb
+/Users/mistral/Projects/InputOperation/InputOperation/obj/Debug/net5.0/InputOperation.genruntimeconfig.cache
