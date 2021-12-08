@@ -15,6 +15,8 @@ namespace InputOperation
             Console.WriteLine(value1 + " - " + value2 + " = " + (value1 - value2));
             Console.WriteLine(value1 + " x " + value2 + " = " + (value1 * value2));
             Console.WriteLine(value1 + " : " + value2 + " = " + (value1 / value2));
+            Console.WriteLine(value1 + " % " + value2 + " = " + (value1 % value2));
+
         }
     }
 }
